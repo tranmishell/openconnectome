@@ -1,0 +1,57 @@
+---
+layout: post
+title: Services
+permalink: http://openconnecto.me/services/index.html
+post_id: 361
+categories: []
+
+---
+
+We provide a number of services, for anybody collecting and/or analyzing connectome data.   In alignment with our open science objectives, all the code for this project is (and will continue) to be developed open source, and hosted at our github site: <a title="openconnectome (github)" href="https://github.com/openconnectome">openconnectome</a>.
+<table border="1">
+<tbody>
+
+|_.Service
+|_.Description
+|
+
+
+|Data Hosting
+|Our Bruster (brain-cluster) is large enough to store nearly any modern connectome data set.  If you would like to make your data available to others for any purpose, including gaining access to state-of-the-art analysis and machine vision pipelines, please simply <a href="mailto:joshuav@jhu.edu?Subject=Data%20hosting">contact us</a>, and we will get the ball rolling.
+|
+
+
+|Web Viewing
+|Collaborative Annotation Toolkit for Massive Amounts of Image Data (<a title="CATMAID" href="http://fly.mpi-cbg.de/~saalfeld/catmaid/">CATMAID</a>) is designed to navigate, share and collaboratively annotate massive image data sets of biological specimens. The interface is inspired by Google Maps, enhanced to allow the exploration of 3D image data. View our fork of the <a title="CATMAID" href="https://github.com/openconnectome/CATMAID">code</a> or go directly to <a href="http://openconnectomeproject.org/catmaid/">view the data</a>.
+
+|
+
+
+|Volume Cutout Service
+|Our RESTful API enables you to select any arbitrary volume of our 3d database (3ddb), and receive a link to download an HDF5 file (for matlab, C, C++, or C#) or a NumPy pickle (for python).  Use some other programming language?  Just let us know. View our <a title="cutout service" href="https://github.com/openconnectome/EM-connectome/tree/master/web">code</a> or see how to <a href="http://hssl.cs.jhu.edu/wiki/doku.php?id=randal:hssl:research:brain:data_set_description">use the service</a>.
+
+|
+
+
+|Sample Downloads
+|In addition to being able to select arbitrary downloads from our datasets, we have also collected a few "choice" volumes of interest that can be <a href="http://tiles.openconnectomeproject.org/data/bock11/sample/">downloaded here</a>.
+
+|
+
+
+|Volume Viewer
+|A web & GPU enabled stand-alone app for viewing volumes at arbitrary cutting planes and zoom levels.  This app seamlessly interfaces directly with our 3ddb. Coming soon....
+|
+
+
+|Machine Vision Pipeline
+|We are building a machine vision pipeline that pulls volumes from our 3ddb and outputs neural circuits.  Of course, this is work in progress.  As soon as we have a stable version, we will release it here.
+|
+
+
+|Mr. Cap
+|Our Magnetic Resonance Connectome Automated Pipeline (Mr. Cap) is built on JIST/MIPAV for high-throughput estimation of connectomes from diffusion and structural imaging data.  View our <a title="Mr. Cap" href="http://www.nitrc.org/projects/mrcap">code</a>.  Manuscript coming soon...
+
+|
+
+</tbody>

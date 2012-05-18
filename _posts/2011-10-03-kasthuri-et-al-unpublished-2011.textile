@@ -1,0 +1,80 @@
+---
+layout: post
+title: Kasthuri et al. (unpublished, 2011)
+permalink: http://openconnecto.me/2011/10/03/kasthuri-et-al-unpublished-2011/index.html
+post_id: 702
+categories: 
+- Connectomes
+---
+
+Bobby Kasthuri’s unpublished data
+
+
+Bobby Kasthuri, Ph.D. under the tutelage of Jeff Lichtman, M.D., Ph.D., acquired a data set from mouse visual cortex with a 3x3x30 cubic nanometer spatial resolution, yielding 660GB of images. This beautiful data will be published soon.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Specifications
+
+
+
+Organism
+Mouse
+
+
+Brain region
+V1 L2/3
+
+
+Resolution
+3x3x30 nm3
+
+
+Total volume
+100x100x50 μm3
+
+
+Web viewing
+Yes
+
+
+Sample downloads
+Not yet
+
+
+Volume cutout service
+Yes
+
+
+Recommended Software
+TrakEM2
+
+
+Connection Matrix
+Not yet
+
+
+Annotations
+Not yet
+
+
+Disk space
+660GB
+
+
+Reference
+ATUM
+
+

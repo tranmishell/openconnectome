@@ -1,0 +1,9 @@
+---
+layout: post
+title: register now at openconnectomeproject.org to start manually annotating
+permalink: http://openconnecto.me/2011/04/07/register-now-at-openconnectomeproject-org-to-start-manually-annotating/index.html
+post_id: 204
+categories: 
+- connectome
+---
+

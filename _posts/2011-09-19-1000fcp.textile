@@ -1,0 +1,74 @@
+---
+layout: post
+title: 1000 Functional Connectomes Project
+permalink: http://openconnecto.me/1000fcp/index.html
+post_id: 624
+categories: []
+
+---
+
+h1. 1000 Functional Connectomes Project
+
+
+&nbsp;
+
+<img class="alignleft" src="http://fcon_1000.projects.nitrc.org/images/fcp_classic2.png" alt="" width="300" height="237" />
+
+<a href="http://fcon_1000.projects.nitrc.org/">1000 Functional Connectomes Project</a>, led by <a href="http://www.childmind.org/en/directory/staff/mmilham">Michael Milham</a>, M.D., Ph.D., is devoted "to initiating open, prospective data-sharing for the neuroimaging community." <a href="http://lfcd.psych.ac.cn/">Xi-Nian Zuo</a>, Ph.D and <a href="http://neurobureau.org">the Neuro Bureau</a> joined forces to release the <a href="http://db.tt/c8DUupG">processed data</a>, as well as the <a href="https://github.com/openconnectome/1000FCP">code</a> we used to process the data.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+h2. Specifications
+
+
+<table border="1">
+<tbody>
+
+|Organism
+|Human
+|
+
+
+|Brain region
+|Whole brain
+|
+
+
+|Resolution
+|~3x3x3 cubic mm
+|
+
+
+|Number of connectomes
+|3022
+|
+
+
+|Web viewing
+|Not yet
+|
+
+
+|Downloads
+|<a href="http://fcon_1000.projects.nitrc.org/indi/req_access.html">Raw data</a>, <a href="http://openconnectomeproject.org/data/indi/1000FCP/">Processed data</a>
+|
+
+
+|Recommended Software
+|<a href="http://www.fmrib.ox.ac.uk/fsl/">FSL</a>
+|
+
+
+|Processing Scripts
+|<a href="http://www.nitrc.org/frs/?group_id=296">pre-processing</a>, <a href="https://github.com/openconnectome/1000FCP">connectome inference</a>
+|
+
+
+|Reference
+|<a href="http://www.pnas.org/content/107/10/4734.short">PNAS (2010)</a>
+|
+
+</tbody>

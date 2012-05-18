@@ -1,0 +1,14 @@
+---
+layout: post
+title: Contact
+permalink: http://openconnecto.me/contact/index.html
+post_id: 11
+categories: []
+
+---
+
+[contact-form 1 "Contact form 1"]
+
+
+Or just send us an <a href="mailto:jovo@openconnectomeproject.org">email</a> if you have questions about the project.  
+

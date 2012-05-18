@@ -1,0 +1,10 @@
+---
+layout: post
+title: Home
+permalink: http://openconnecto.me/home-2/index.html
+post_id: 674
+categories: []
+
+---
+
+[thethe-image-slider name="Slider1"] 

@@ -1,0 +1,41 @@
+---
+layout: post
+title: ""
+permalink: http://openconnecto.me/2011/09/18/580/index.html
+post_id: 580
+categories: 
+- Primary Navigation
+---
+
+Johns Hopkins University & JHU Applied Physics Lab
+
+	The Vogelstein Brothers: R. Jacob & Joshua
+	Randal Burns & Eric Perlman of the Hopkins Storage Systems Lab
+	Michael (Misha) Kazhdan & Ming Chuang of the Computer Graphics Group at JHU
+
+Harvard University
+
+	Clay Reid & Wei-Chung Allen Lee of the Reid Lab
+	Jeff Lichtman & Bobby Kasthuri of the Lichtman Lab
+
+Janelia Farm Research Campus
+
+	Davi Bock
+
+Institute of Neuroinformatics
+
+	Cardona Lab
+
+Max Plank Institute of Molecular Cell Biology and Genetics
+
+	Stephan Saalfeld of the Tomancak Lab
+
+Stanford University
+
+	Logan Grosenick of the Karl Deisseroth and Patrick Suppes Labs
+
+Child Mind Institute
+
+	Michael Milham
+
+ 

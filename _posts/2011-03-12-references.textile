@@ -1,0 +1,51 @@
+---
+layout: post
+title: References
+permalink: http://openconnecto.me/references/index.html
+post_id: 15
+categories: []
+
+---
+
+h1. References
+
+
+The number of publications on connectomes and connectomics is rapidly increasing.  We provide here a growing list of publications which align with our open initiative, that is, either the data and/or code is open.
+h2. Open Connectomes
+
+
+Bock DD, Lee WC, Kerlin AM, Andermann ML, Hood G, Wetzel AW, Yurgenson S, Soucy ER, Kim HS, Reid RC. *Network anatomy and in vivo physiology of visual cortical neurons*. _Nature_ 471, 177-182 (10 March 2011). <a href="http://www.nature.com/nature/journal/v471/n7337/full/nature09802.html">article</a>, <a href="http://reid.med.harvard.edu/pdf/Bock-Lee-etal-Reid-2011-Nature.pdf">pdf</a>, <a href="http://reid.med.harvard.edu/pdf/Bock-Lee-etal-Reid-2011-NatureSupp.pdf">suppl.</a>
+
+Anderson JR, Jones BW, Watt CB, Shaw MV, Yang JH, Demill D, Lauritzen JS, Lin Y, Rapp KD, Mastronarde D, Koshevoy P, Grimm B, Tasdizen T, Whitaker R, Marc RE. *Exploring the retinal connectome*._ Molecular vision_ 17 355-365 (2011). <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3036568/?tool=pubmed">article</a>, <a href="http://prometheus.med.utah.edu/~marclab/marclab_09_science-connectome.html">data</a>.
+
+Biswal BB, Mennes M, Zuo XN, Gohel S, Kelly C, Smith, SM, Beckmann, CF, Adelstein, JS,  Buckner RL, Colcomb S, and others. *Toward discovery science of human brain function.* _Proceedings of the National Academy of Sciences_ 107:10 4734-4740 (2010). <a href="http://www.pnas.org/content/107/10/4734.short">article</a>, <a href="http://fcon_1000.projects.nitrc.org/">data</a>.
+
+<span style="font-size: 20px; font-weight: bold;">Open Source Software</span>
+
+Kaynig V, Fuchs T, Buhmann JM. *Neuron Geometry Extraction by Perceptual Grouping in ssTEM Images.* _CVPR_, 2010. <a href="http://kaynig.de/kaynig_cvpr2010.pdf">pdf</a>, <a href="http://kaynig.de/demos.html">code</a>.
+
+Kreshuk A, Straehle CN, Sommer C,  Koethe U, Knott G, Hamprecht FA. *Automated Segmentation of Synapses in 3D EM Data. *ISBI, 2011. <a href="http://hci.iwr.uni-heidelberg.de/publications/mip/techrep/kreshuk_11_automated.pdf">pdf</a>, <a href="https://github.com/Ilastik/ilastik">code</a>.
+
+Anderson JR, Mohammed S, Grimm B, Jones BW, Koshevoy P, Tasdizen T, Whitaker R, Marc R. *The Viking viewer for connectomics: scalable multi-user annotation and summarization of large volume data sets.* _J Microscopy_: 241:13-28 (2011). <a href="http://www.ncbi.nlm.nih.gov/pubmed/21118201">article</a>, <a href="http://prometheus.med.utah.edu/~marclab/marclab_2011_Connectomes_index.html">software</a>.
+
+Saalfeld S, Cardona A, Hartenstein V, Tomancák P. *CATMAID: Collaborative Annotation Toolkit for Massive Amounts of Image Data*. _Bioinformatics_, 25(19), 1984–1986 (2009). <a href="http://bioinformatics.oxfordjournals.org/cgi/content/full/25/15/1984">article</a>, <a href="http://fly.mpi-cbg.de/~saalfeld/Publications/download/catmaid.pdf">pdf</a>
+
+Gray WR, Bogovic JA, Vogelstein JT,  Landman BA, Prince JL, Vogelstein RJ. *Magnetic Resonance Connectome Automated Pipeline*_Submitted to IEEE Engineering in Medicine and Biology Society_.
+
+Gerhard S, Daducci A, Lemkaddem A, Meuli R, Thiran J-P, Hagmann P. *The Connectome Viewer Toolkit: an open source framework to manage, analyze and visualize connectomes*. _Front. Neuroinform_ 5:3 (2011). <a href="http://www.frontiersin.org/neuroinformatics/10.3389/fninf.2011.00003/abstract">article</a>.
+h2. Data collection
+
+
+Kasthuri N, Hayworth K, Tapia JC, Schalek R, Nundy S, Lichtman JW. *The brain on tape: Imaging an Ultra-Thin Section Library (UTSL).* Society for Neuroscience (2009).
+
+Hayworth, KJ, Kasthuri, N, Schalek, R and Lichtman, JW. *Automating the Collection of Ultrathin Serial Sections for Large Volume TEM Reconstructions*._ Microscopy and Microanalysis_ 12: 86-87 (2006).
+
+Anderson JR, Jones BW, Yang J-H, Shaw MV, Watt CB, et al.  *A Computational Framework for Ultrastructural Mapping of Neural Circuitry.* _PLoS Bio _7(3):  e1000074.  doi:10.1371/journal.pbio.1000074 (2009). <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000074">article</a>.
+h2. Reviews
+
+
+Lichtman JW, Sanes JR. *Ome sweet ome: what can the genome tell us about the connectome?* _Curr Opin Neurobiol_ Jun;18(3):346-53 (2008). <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VS3-4THDXWC-1&_user=75682&_coverDate=06%2F30%2F2008&_rdoc=1&_fmt=high&_orig=gateway&_origin=gateway&_sort=d&_docanchor=&view=c&_acct=C000006078&_version=1&_urlVersion=0&_userid=75682&md5=07b9d2ccbda75cb15dca92c6cded1df6&searchtype=a">article</a>, <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2735215/pdf/nihms-104204.pdf">pdf</a>
+h2. Other
+
+
+We have started a <a href="http://openconnectomeproject.org/wiki/em-machine-annotation-references/">wiki page</a> that has an annotated bibliography, including some of the references listed above, as well as a number of other ones.  Please contribute to it as you see fit.

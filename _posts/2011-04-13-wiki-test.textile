@@ -1,0 +1,10 @@
+---
+layout: post
+title: wiki test
+permalink: http://openconnecto.me/wiki/wiki-test/index.html
+post_id: 300
+categories: []
+
+---
+
+Yeah that's what I'm taklnig about baby--nice work!

@@ -1,0 +1,63 @@
+---
+layout: post
+title: Celegans
+permalink: http://openconnecto.me/celegans/index.html
+post_id: 756
+categories: []
+
+---
+
+h1. Hermaphroditic C. elegans
+
+
+<img class="aligncenter size-medium wp-image-283" title="home-photo" src="http://upload.wikimedia.org/wikipedia/commons/b/be/CrawlingCelegans.gif" alt="" width="700" />
+
+The hermaphroditic Caenorhabditis elegans connectome is the only connectome published to date.  Thanks to the herculean efforts of White et al. (1986), and many others since, C. elegans has become a model organism, not just in the standard sense, but also in setting the bar for data sharing and open research.
+
+&nbsp;
+h2. Specifications
+
+
+<table border="1">
+<tbody>
+
+|Organism
+|Caenorhabditis elegans
+|
+
+
+|Brain region
+|Whole thing
+|
+
+
+|Web viewing
+|<a href="http://www.wormatlas.org/SW/SW.php/index.php?slice=50">somewhat</a> (link to wormimage)
+|
+
+
+|Sample downloads
+|not yet
+|
+
+
+|Volume cutout service
+|not yet
+|
+
+
+|Connection Matrix
+|<a href="http://db.tt/uivKJETz">Yes</a>
+|
+
+
+|Reference
+|<a href="http://www.wormatlas.org/ver1/MoW_built0.92/toc.html">White et al (1986)</a>
+|
+
+
+|Links
+|<a href="http://www.wormatlas.org/">wormatlas</a>, <a href="http://wormbase.org">wormbase</a>
+|
+
+</tbody>

@@ -1,0 +1,95 @@
+---
+layout: post
+title: Kasthuri11
+permalink: http://openconnecto.me/kasthuri11/index.html
+post_id: 617
+categories: []
+
+---
+
+h1. Bobby Kasthuri's unpublished data
+
+
+<table border="1">
+<tbody>
+
+|<a href="http://openconnectomeproject.org/wp-content/uploads/2011/05/jeff2.png"><img class="size-medium wp-image-397 alignleft" title="jeff2" src="http://openconnectomeproject.org/wp-content/uploads/2011/05/jeff2-300x300.png" alt="" width="300" height="300" /></a>
+|Bobby Kasthuri, Ph.D. under the tutelage of Jeff Lichtman, M.D., Ph.D., acquired a data set from mouse visual cortex with a 3x3x30 cubic nanometer spatial resolution, yielding 660GB of images. This beautiful data will be published soon.
+
+&nbsp;
+<a href="http://openconnectomeproject.org/catmaid/?pid=5&zp=500&yp=12973&xp=9907&sid0=5&s0=2"><p style="text-align: center;">View online now!
+<img class="aligncenter size-full wp-image-161" title="btn_explore" src="http://openconnecto.me/wp-content/uploads/2011/04/btn_explore.png" alt="" width="150" /></a>
+
+
+
+&nbsp;
+|
+
+</tbody>
+
+h2. Specifications
+
+
+<table border="1">
+<tbody>
+
+|Organism
+|Mouse
+|
+
+
+|Brain region
+|V1 L2/3
+|
+
+
+|Resolution
+|3x3x30 cubic nanometers
+|
+
+
+|Total volume
+|100x100x50 cubic microns
+|
+
+
+|Web viewing
+|<a href="http://openconnectomeproject.org/catmaid/?pid=5&zp=500&yp=12973&xp=9907&sid0=5&s0=2">CATMAID</a>
+|
+
+
+|Sample downloads
+|Not yet
+|
+
+
+|Volume cutout service
+|<a href="http://hssl.cs.jhu.edu/wiki/doku.php?id=randal:hssl:research:brain:data_set_description">Yes</a>
+|
+
+
+|Recommended Software
+|<a href="http://www.ini.uzh.ch/~acardona/trakem2.html">TrakEM2</a>
+|
+
+
+|Connection Matrix
+|Not yet
+|
+
+
+|Annotations
+|Not yet
+|
+
+
+|Disk space
+|660GB
+|
+
+
+|Reference
+|<a href="http://journals.cambridge.org/action/displayFulltext?type=1&fid=456487&jid=MAM&volumeId=12&issueId=S02&aid=456486">ATUM</a>
+|
+
+</tbody>
