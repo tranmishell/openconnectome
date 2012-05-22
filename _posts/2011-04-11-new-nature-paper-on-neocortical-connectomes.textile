@@ -1,0 +1,10 @@
+---
+layout: post
+title: new nature paper on neocortical connectomes
+permalink: http://openconnecto.me/2011/04/11/new-nature-paper-on-neocortical-connectomes/index.html
+post_id: 262
+categories: 
+- connectome
+---
+
+On Friday in the journal Nature, a brilliant (ioho="in our humble opinion") new contribution to connectome science, entitled: "<a title="Functional specificity of local synaptic connections in neocortical networks" href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature09880.html" target="_blank">Functional specificity of local synaptic connections in neocortical network</a>," led by Ho Ko of the <a title="Mrsic-Flogel Lab" href="http://www.ucl.ac.uk/mrsic-flogel/MF_lab/Home.html" target="_blank">Mrsic-Flogel Lab</a>. Instead of using a "static" experimental modality to estimate neural connectivity (like electron microscopy of diffusion MRI), they used a "dynamic" experimental modality, namely electrophysiology and <a title="Optophysiology" href="http://jovo.me/optophysiology.html" target="_blank">calcium imaging</a>.  This manuscript adds much to our knowledge of the relationship between connectivity and activity of neurons in real biological networks.

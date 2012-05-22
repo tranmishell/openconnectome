@@ -1,0 +1,10 @@
+---
+layout: post
+title: TED talk on open science by Michael Nielsen (open science guru)
+permalink: http://openconnecto.me/2011/04/08/ted-talk-on-open-science-by-michael-nielsen-open-science-guru/index.html
+post_id: 221
+categories: 
+- connectome
+---
+
+<iframe title="YouTube video player" width="610" height="371" src="http://www.youtube.com/embed/DnWocYKqvhw" frameborder="0" allowfullscreen></iframe>

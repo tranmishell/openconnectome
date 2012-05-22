@@ -1,0 +1,10 @@
+---
+layout: post
+title: we are on twitter and facebook
+permalink: http://openconnecto.me/2011/03/20/we-are-on-twitter-and-facebook/index.html
+post_id: 112
+categories: 
+- announcement
+---
+
+check out @openconnectome and our facebook page: http://on.fb.me/glPzuY

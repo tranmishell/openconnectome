@@ -1,0 +1,115 @@
+---
+layout: post
+title: NIH RFI
+permalink: http://openconnecto.me/nih-rfi/index.html
+post_id: 744
+categories: []
+
+---
+
+<h2 align="center">Response to NIH RFI NOT-DA-11-021
+
+
+<div>
+<div id="internal-source-marker_0.06234393850900233" dir="ltr">
+<colgroup> <col width="177"></col> <col width="221"></col> <col width="178"></col> </colgroup>
+<tbody>
+
+|Randal Burns, PhD
+Associate Professor
+Dept. of Computer Science
+Johns Hopkins Unviersity
+|Michael P. Milham, MD, PhD
+Director, Center for the Developing Brain
+Senior Research Scientist
+Child Mind Institute
+|Joshua Vogelstein, PhD
+Research Scientst
+Dept. of Applied Math and Statistics
+Johns Hopkins University
+|
+
+
+|
+|
+|
+|
+
+</tbody>
+
+</div>
+</div>
+h3. Overview
+
+
+
+p. The following positions reflect the development principles and experience to date of deploying the 1000 Functional Connectome Project (FCP) dataset on the large-scale scientific databases of the Open Connectome Project.  The goal of this collaboration is to create an Open Science data warehouse and analysis engine for connectome-wide associations on MR data.  We have started  by ingesting the 1000 FCP dataset‒one of the largest public MR data sets‒for exploratory data analysis (data mining).  We are enriching this data set with derived data products, including factor analysis, state space analysis, and graph estimation.  We are deploying analysis tools that run on large sets of MR data, e.g. group ICA.  Analysis tools execute on data in-situ, running on the database servers and storing outputs back into the data warehouse, in order to avoid the transfer of large data sets over the network.  We will ultimately build a standard ingest pipelines for multi-modal MRI that allows users to upload data sets using Web services.  The pipeline will include: client-side anonymization, quality control, and normalization code that runs before data transfer, image processing to create standard derived data products, ingest and indexing of data products, and the definition of public-interfaces to query, annotate, process, and customize images and derived data products.
+
+
+
+h3. An Open Science Approach to Neuroimaging
+
+
+
+Standard practice in contemporary neuroimaging involves an experimental biologist collecting some imaging data and storing it locally on his or her machines.  Then, a graduate student in the life sciences uses standard proprietary tools (e.g., SPM which is a MATLAB toolbox) written to analyze the data.  This analysis is often univariate: each voxel of each subject is treated separately.  Running it on a cluster requires many MATLAB licenses, often prohibitively expensive for all but the most well-funded labs. Even the standard open source tools (e.g., AFNI and FSL) treat each experiment separately.
+
+<p dir="ltr">Our Open Science approach to neuroimaging involves multiple communities of expertise: neuroscientists, psychologists and psychiatrists for experimental design, physicists for data collection, computer scientists for data management, and statisticians for analysis.  It examines data collectively using multivariate statistics. An experimental biologist collects imaging data and stores it locally on his or her machines, as well as remotely on a data-intensive compute cluster with hardware and software designed specifically for curating large-scale neuroimaging data sets.  Graduate students in the life sciences use open-source software written by statisticians and computer scientists to analyze the data.  The analysis is multivariate and shares information across subjects and experiments by pooling data.  Each voxel is treated as a part of volume within a corpus of data. The code and data are shared at (or prior to) the time of publication.
+
+
+
+h3. Incentive to promote sharing (1b and 1c)
+
+
+<p dir="ltr">The accumulation of many MR data sets will have a network effect that encourages data sharing by enhancing the value of MR data.  Tens or hundreds of thousands of MR images stored in a data warehouse will allow image data and derived data products to be mined, correlated, and compared. Furthermore, data sharing will make data products available to an interdisciplinary community of collaborators to facilitate defining additional derived data products.  For example, innovation from the image processing community will contribute to extracting connectomes from MR images and statistical methods will be developed to analyze large collections of graphs.
+
+
+<p dir="ltr">Also, data management becomes onerous for the researchers and clinicians imaging connectomes, because imaging modalities produce increasingly more data at higher resolution.  They have neither the storage management expertise to handle petascale data, nor the data-intensive computing resources to analyze these data sets in house.  Open Science storage and analysis services, such as the Open Connectome Project, deliver expertise in preservation and curation of data at a massive scale.  Data management becomes a driving force for sharing.
+
+
+
+h3. Experience with Centralized Repositories (6b) and Lessons Learned (5a)
+
+
+<p dir="ltr">The Open Connectome Project team at the Institute for Data-Intensive Science and Engineering (IDIES) at Johns Hopkins University has deployed several data-intensive Web-services and large-scale databases for different science domains, including the JHU Turbulence Database Cluster (turbulence.pha.jhu.edu), the Sloan Digital Sky Survey (www.sdss.org), and the Chesapeake Bay Environmental Observatory. At present, IDIES at Johns Hopkins manages more than 2.5 PB of scientific data and is building a 5 PB, $1.2M NSF-funded data-intensive computing platform called Datascope.  Datascope will be a mutli-tenant storage and analysis platform, including storing data for the Open Connectome Project.
+
+
+<p dir="ltr">Our experiences with astrophysics over the last 10 years has shown us the utility of publicly-accessible, community-wide data warehousing.  Early on, astrophysicists focused on supporting distributed data sets, global querying, and site ownership of data.  This approach has limited utility in both performance and quality: network delays and outages failed or slowed experiments and the limited bandwidth across sites restricted the type of analyses possible.  In response, several of the largest sites, including the Sloan Digitial Sky Survey at Johns Hopkins, starting building data warehouses, collecting other data sets from across the globe.  The combined data are much more powerful, supporting ad-hoc queries across multiple data sets, such as correlation and object matching between catalogues that were not possible in distributed architectures.  Other major sites have used the same open-source software stack to build their own data warehouses as well.  It turns out that the size of data sets are power law distributed, so that all of the small data sets are on the same order as the largest data sets, making it feasible financially to build a global warehouse, when building storage capabilities for a new project or instrument.  We have witnessed this phenomena in multiple disciplines, including turbulence, environmental engineering, computational genomics, and astrophysics.
+
+
+<p dir="ltr">The model we are using for the Open Connectome Project, and in our other databases, involves no fees for services, either storage services for data providers or computation for data analysis.  The value of pooling data for multivariate analysis justifies the funding needed to operate community storage sites.  Long-term sustainability remains a challenge, but the exponential growth in storage capabilities mitigates this.  For example, the 2.5 TB in the first data release of the Sloan Digital Sky Survey can now be stored on a single hard disk.  The final release of more than 60TB was in 2008.  The entire data volume generated by the SDSS over a decade uses less than 2% of our current data-intensive cluster.
+
+
+
+h3. MyDB: User Private Data Spaces (Embargo by Collecting Lab 4b)
+
+
+<p dir="ltr">IDIES databases provide a user-private data space, called MyDB,  to which scientists can upload individual data sets and store and reanalyze derived data products.  MyDB allows users to realize the full benefit of the data warehouse, performing analyses across all public data sets while keeping their data private.  Our experience dictates that this service is more valuable for secondary data products.  The products need to be in the database for analyses, but the derivation of these data use innovative algorithms or methods that need to be protected by the scientist for publication or intellectual property reasons.
+
+
+<p dir="ltr">Even though we support private data sets, we have discovered that communities converge on public sharing of data.  Those scientists that do not share find that their data becomes irrelevant in that it does not participate in analyses that lead to discovery: connectome-wide associations are the example for MR data.  This represents a paradigm shift in which all data are shared, because not sharing slows innovation.  Similarly, the intellectual content that researchers need to protect lies in their understanding of the data, algorithms and analyses, not the data itself.
+
+
+
+h3. Quality Assurance (4b and 5a)
+
+
+<p dir="ltr">A key question is whether to share only data passing certain quality criteria, or to share all data regardless of quality, thereby placing responsibility for quality control in the hands of users. The complicating reality is that there is no consensus regarding data quality standards to guide the detection of outliers. Even if standards for data quality were established, data rejected based on current standards may become useful in the future as correction algorithms that can “rescue” some of the previously rejected datasets are developed.
+
+
+<p dir="ltr">As such, we suggest the ideal model to be full data-release, independent of data-quality.  This is not to suggest against the merits of including quality assurance measures based upon current standards with data release, as a guide for less experience data-users. It is our hope that over time, as novel and more effective quality assurance measures are developed, the metrics provided with data would be dynamically updated.
+
+
+<p dir="ltr">The initial release of the 1000 Functional Connectomes Project (FCP) provides a valuable lesson with regards to value of letting the larger scientific community identify and address problematic data.  Specifically, the initial release contained 4 datasets with “right-left” orientation flips - one of which had half the images in one R-L orientation, and the other half in another (unknown to the contributors).  Reviewer of the data by users, led to identification and correction of these problematic datasets for both - the larger community and the contributing sites. This simple occurrence demonstrates the potential value of allowing the larger community to address data concerns, rather than individuals labs.
+
+
+
+h3. Phenotypic Harmonization (7)
+
+
+<p dir="ltr">The utility of aggregating imaging data across independent sites depends on the collection of common phenotypic information. Unfortunately, no commonly accepted standards for collecting phenotypic information exist. The NIH Toolbox attempts to address this issue, but significant concerns exist in the community regarding the scope, thoroughness, and availability of the toolbox. Additionally, it does not directly probe psychiatric illness.
+
+
+<p dir="ltr">The International Neuroimaging Data-sharing Initiative (INDI) is launching two efforts that may serve as models.  First, the INDI is promoting the global usage of the Achenbach System of Empirically Based Assessments (ASEBA), which provides standardized dimensional measures of psychological symptomatology. The ASEBA consists of easily administered self-report and informant questionnaires, that are normed between ages 1.5 and 90+ years, and available in more than 85 languages. Other similar instruments will be needed to maximize our ability to work across labs. Second, INDI will soon be initiating the Enhanced NKI Rockland Sample (NKI-RS). Now sponsored by the NIMH, the NKI-RS sample will make use of a comprehensive battery of established assessment instruments brought together to broadly probe psychiatrically relevant behavioral domains across the lifespan (ages: 6-85). Creation of a centralized web-based repository of such phenotypic assessment batteries for open usage by the community could rapidly advance harmonization of phenotypic data.
+
+
+&nbsp;

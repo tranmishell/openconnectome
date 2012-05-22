@@ -1,0 +1,72 @@
+---
+layout: post
+title: Connectomes
+permalink: http://openconnecto.me/connectomes/index.html
+post_id: 13
+categories: []
+
+---
+
+<table border="1">
+<tbody>
+
+|_.
+h2. Data
+
+
+
+|_.
+h2. Description
+
+
+
+|
+
+
+|
+h3. <a title="Bock et al. (Nature) 2011" href="http://openconnectomeproject.org/Bock11/">Bock et al.'s Primary Visual Cortex</a>
+
+
+
+|<a title="Bock et al. (Nature) 2011" href="openconnectomeproject.org/Bock11"> <img class="size-thumbnail wp-image-171 alignleft" title="Bock et al. (Nature) 2011" src="http://openconnectomeproject.org/wp-content/uploads/2011/03/Screen-shot-2011-04-05-at-1.40.19-PM-150x150.png" alt="" width="150" height="150" /></a>
+|
+
+
+|
+h3. <a title="Kasthuri et al. 2011" href="http://openconnectomeproject.org/Kasthuri11/">
+Kasthuri et al.'s Primary Visual Cortex</a>
+
+
+
+|<a title="Kasthuri et al. 2011" href="http://openconnectomeproject.org/Kasthuri11/"><img title="Kasthuri et al. 2011" src="http://openconnectomeproject.org/wp-content/uploads/2011/05/jeff2-150x150.png" alt="" width="150" height="150" /></a>
+|
+
+
+|
+h3. <a title="1000 FCP" href="http://openconnectomeproject.org/1000fcp/">1000 Functional Connectome Project and
+International Neuroimaging Data-Sharing Initiative</a>
+
+
+
+|<a title="1000 FCP" href="http://openconnectomeproject.org/1000fcp/"><img title="1000 FCP" src="http://fcon_1000.projects.nitrc.org/images/fcp_classic2.png" alt="" width="150" height="118" /></a>
+|
+
+
+|
+h3. <a title="Herm. C. elegans" href="http://openconnectomeproject.org/celegans/">Hermaphroditic C. elegans</a>
+
+
+
+|<a href="http://openconnectomeproject.org/celegans/"><img class="size-medium wp-image-283 alignleft" title="Herm. C. elegans" src="http://upload.wikimedia.org/wikipedia/commons/b/be/CrawlingCelegans.gif" alt="" width="150" height="79" /></a>
+|
+
+
+|
+h3. <a title="Male C. elegans" href="http://openconnectomeproject.org/male-c-elegans/">Male C. elegans</a>
+
+
+
+|<a href="http://openconnectomeproject.org/male-c-elegans/"><img class="size-full wp-image-778 alignleft" title="C. Elegans Mating" src="http://openconnectomeproject.org/wp-content/uploads/2011/10/mating1.gif" alt="" width="150" height="113" /></a>
+|
+
+</tbody>

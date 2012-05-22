@@ -1,0 +1,74 @@
+---
+layout: post
+title: Links
+permalink: http://openconnecto.me/links/index.html
+post_id: 459
+categories: []
+
+---
+
+h2. Open Source Software Packages
+
+
+<ul>
+	<li><a href="http://www.nitrc.org/projects/mrcap/">Mr. Cap</a> - Magnetic Resonance Connectome Automated Pipeline, written on top of JIST/MIPAV</li>
+	<li><a href="http://fly.mpi-cbg.de/~saalfeld/catmaid/">CATMAID</a> - Collaborative Annotation Toolkit for Massive Amounts of Image Data</li>
+	<li><a href="https://sites.google.com/a/brain-connectivity-toolbox.net/bct/Home">BCT</a> - Brain Connectivity Toolbox, a matlab toolbox for analyzing brain-graphs</li>
+	<li><a href="http://networkx.lanl.gov/">NetworkX</a> - a python package for computing a variety of graph invariants</li>
+	<li><a href="http://www.ilastik.org/">ilastik</a> -  a simple, user-friendly tool for image classification and segmentation</li>
+	<li><a href="http://www.ini.uzh.ch/~acardona/trakem2.html">TrakEM2</a> - an ImageJ plugin for connectome annotation and image processing</li>
+	<li><a href="http://connectomes.utah.edu/">Viking Annotation System</a> - a multi-user web-based collaborative management system for volumes</li>
+	<li><a href="http://www.fmrib.ox.ac.uk/fsl/">FSL</a> - a comprehensive library of analysis tools for FMRI, MRI and DTI brain imaging data</li>
+	<li><a href="http://afni.nimh.nih.gov/afni">AFNI</a> -  a set of C programs for processing, analyzing, and displaying functional MRI (FMRI) data</li>
+	<li><a href="http://nipy.sourceforge.net/nipype/">NiPype</a> - a Python project that provides a uniform interface to existing neuroimaging software</li>
+</ul>
+h2. External Connectomes
+
+
+<ul>
+	<li><a href="http://www.nitrc.org/projects/fcon_1000/">1000 Functional Connectomes Project</a> - 'nuff said</li>
+	<li><a href="http://fcon_1000.projects.nitrc.org/indi/adhd200/">ADHD200</a> -- a grassroots initiative, dedicated to accelerating our understanding of the neural basis of ADHD</li>
+	<li><a href="http://prometheus.med.utah.edu/~marclab/marclab_09_science-connectome.html">Retina Connectome</a> - a large open dataset containing some mouse retina with associated open tools</li>
+</ul>
+h2. Open Connectome Project Feeds
+
+
+<ul>
+	<li><a href="https://github.com/organizations/openconnectome">github</a> - all our code</li>
+	<li><a href="https://twitter.com/#!/openconnectome">twitter</a> - announcements of new services and related articles/pages</li>
+	<li><a href="https://www.facebook.com/pages/Open-Connectome-Project/173623369355627">facebook</a> - same as twitter feed, for those who prefer facebook</li>
+</ul>
+h2. Connectome Projects
+
+
+<ul>
+	<li><a href="http://humanconnectome.org/">human connectome project</a> - NIH's plan to get human MR connectomes</li>
+	<li><a href="http://www.mouseconnectome.org/">mouse connectome project</a> -- aims to create a 3D digital connectome atlas of the C57Black/6J mouse brain</li>
+</ul>
+h2. Neuroscience Friends
+
+
+<ul>
+	<li><a href="http://neurobureau.projects.nitrc.org/NeuroBureau/Welcome.html">the neuro bureau</a> - neuro-collaboration in action</li>
+	<li><a href="http://www.nitrc.org/">NITRC</a> - the source for neuroimaging tools and research</li>
+	<li><a href="http://crcns.org/">CRCNS</a> - Collaborative Research in Computational Neuroscience</li>
+	<li><a href="http://www.wholeslide.com/index.html">WholeSlide</a> - a technological initiative to create tools and techniques for wholeslide image analysis</li>
+	<li><a href="http://wormatlas.org/">worm atlas</a> - all things Caenorhabditis elegans</li>
+	<li><a href="http://www.pioneerimprints.com/Pioneer/Open_Collaboration_Freemium.html">Open Collaboration Encyclopedia</a> - an evolving primer on an emergent paradigm</li>
+	<li><a href="http://www.knossostool.org/index.html">Knossos</a> - a software tool for the visualization and annotation of 3D image data</li>
+	<li><a href="http://neuromorpho.org/neuroMorpho/index.jsp">NeuroMorpho</a> - a centrally curated inventory of digitally reconstructed neurons</li>
+	<li><a title="ML@JHU" href="http://ml.jhu.edu">ML@JHU</a> - Machine Learning @ Johns Hopkins University</li>
+	<li><a href="http://www.wholebrainproject.org/">Whole Brain Project</a> - facilitates visualizing and exploring the brain’s structure and function</li>
+	<li><a href="http://www.brain-map.org/">Allen Institute for Brain Science</a> - performs basic research and distributes discoveries freely</li>
+	<li><a href="http://thebrainobservatory.ucsd.edu/">The Brain Observatory</a> - digitizes brain data for visualization and other purposes</li>
+</ul>
+h2. Open Science Friends
+
+
+<ul>
+	<li><a href="http://creativecommons.org/science">Creative Commons Science</a> - expand the use of Creative Commons licenses to scientific research</li>
+	<li><a href="http://okfn.org/">Open Knowledge Foundation</a> - a non-profit dedicated to promoting open science</li>
+	<li><a href="http://blog.openwetware.org/scienceintheopen/">Science in the Open</a> - thoughts on the technical and social issues involved with ‘Open Science’</li>
+	<li><a href="http://michaelnielsen.org/blog/">Michael Nielson's Blog</a> - scholar and author talks about all things 'Open Science'</li>
+	<li><a href="http://www.pioneerimprints.com/Pioneer/Open_Collaboration_Freemium.html">Open Collaboration Encyclopedia</a> - an evolving primer on an emergent paradigm</li>
+</ul>

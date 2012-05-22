@@ -1,0 +1,59 @@
+---
+layout: post
+title: Male C. Elegans
+permalink: http://openconnecto.me/male-c-elegans/index.html
+post_id: 770
+categories: []
+
+---
+
+h1. Male C. elegans  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a style="text-align: center;" href="http://openconnecto.me/catmaid/">View online now!</a>
+
+
+<a href="http://openconnectomeproject.org/wp-content/uploads/2011/10/mating1.gif"><img class="size-full wp-image-778 alignleft" title="C. Elegans Mating" src="http://openconnectomeproject.org/wp-content/uploads/2011/10/mating1.gif" alt="" height="180" /></a>The male Caenorhabditis elegans connectome is the second connectome published to date. Many thanks to <a href="mailto: steven dot cook2 at gmail dot com">Steven Cook</a> in the lab of <a href="http://worms.aecom.yu.edu/">Scott W. Emmons </a>for contributing this data!  The data is organized into separate folders representing image stacks from one serially sectioned adult male worm.  These images were donated by John White et al. and are currently maintained by <a href="http://wormimage.org">Dave Hall</a>. For the moment, they are collected as separate projects in CATMAID for viewing.  We hope to generate a global coordinate frame for browsing the data in the near future.
+h2. Specifications
+
+
+<table border="1">
+<tbody>
+
+|Organism
+|Caenorhabditis elegans
+|
+
+
+|Brain region
+|Whole thing
+|
+
+
+|Web viewing
+|<a href="http://openconnectomeproject.org/catmaid/">CATMAID</a>
+|
+
+
+|Sample downloads
+|not yet
+|
+
+
+|Volume cutout service
+|not yet
+|
+
+
+|Connection Matrix
+|not yet
+|
+
+
+|Reference
+|unpublished
+|
+
+
+|Links
+|<a href="http://worms.aecom.yu.edu/PHP/male_wiring_project.php">C. Elegans Male Wiring Project</a>
+|
+
+</tbody>

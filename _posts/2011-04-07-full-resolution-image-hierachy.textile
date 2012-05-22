@@ -1,0 +1,10 @@
+---
+layout: post
+title: full resolution image hierachy
+permalink: http://openconnecto.me/2011/04/07/full-resolution-image-hierachy/index.html
+post_id: 202
+categories: 
+- connectome
+---
+
+the full resolution image hierarchy is now available for your viewing pleasure at openconnectomeproject.org

@@ -1,0 +1,10 @@
+---
+layout: post
+title: openconnectome is now on github
+permalink: http://openconnecto.me/2011/04/14/openconnectome-is-now-on-github/index.html
+post_id: 308
+categories: 
+- announcement
+---
+
+The <a title="Open Connectome Project" href="http://openconnectomeproject.org">Open Connectome Project</a> is now an organization on <a title="github" href="http://github.com">github</a> under the name <a title="openconnectome" href="https://github.com/openconnectome">openconnectome</a>.  In addition to our new repository: <a title="EM-connectome" href="https://github.com/openconnectome/EM-connectome">EM-connectome</a>, we also forked the <a title="CATMAID" href="https://github.com/openconnectome/CATMAID">CATMAID</a> and <a title="TrakEM2" href="https://github.com/openconnectome/Fiji-TrakEM2-scripts">TrakEM2</a> repositories.   Come watch, fork, play...

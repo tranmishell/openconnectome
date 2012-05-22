@@ -1,0 +1,107 @@
+---
+layout: post
+title: Bock11
+permalink: http://openconnecto.me/bock11/index.html
+post_id: 585
+categories: []
+
+---
+
+h1. Bock et al. Mouse V1 Layer 2/3 (Nature, 2011)
+
+
+<table border="1">
+<tbody>
+
+|<a href="http://openconnecto.me/wp-content/uploads/2012/01/home-photo.png"><img class="aligncenter size-full wp-image-15114" title="Bock et al. (Nature) 2011" src="http://openconnecto.me/wp-content/uploads/2012/01/home-photo.png" alt="" width="389" height="389" /></a>
+|Davi Bock, Ph.D. and Wei-Chung Allen Lee, Ph.D., in the laboratory of Clay Reid, M.D., Ph.D. acquired a beautiful volume of mouse primary visual cortical data, spanning layers 1, 2/3, and upper layer 4.  In addition to the electron microscope (EM) data, they used two-photon microscopy to determine the functional properties of about 14 of the cells in the same volume.&nbsp;
+<p style="text-align: center;"><a href="http://openconnectomeproject.org/catmaid/?pid=4&zp=27135&yp=244096&xp=205492&sid0=4&s0=2">View online now!
+<img class="aligncenter size-full wp-image-161" title="btn_explore" src="http://openconnecto.me/wp-content/uploads/2011/04/btn_explore.png" alt="" width="150" /></a>
+
+
+&nbsp;
+|
+
+</tbody>
+
+h2. Specifications
+
+
+<table border="1">
+<tbody>
+
+|Organism
+|Mouse
+|
+
+
+|Brain region
+|Primary visual cortex layers 1, 2/3, and upper 4
+|
+
+
+|Resolution
+|4x4x45 cubic nanometers
+|
+
+
+|Total volume
+|450x350x50 cubic microns
+|
+
+
+|Web viewing
+|<a href="http://openconnectomeproject.org/catmaid/?pid=4&zp=27135&yp=244096&xp=205492&sid0=4&s0=2">CATMAID</a>
+|
+
+
+|Sample downloads
+|<a href="http://openconnectomeproject.org/data/bock11/sample/">Yes</a>
+|
+
+
+|Volume cutout service
+|<a href="http://hssl.cs.jhu.edu/wiki/doku.php?id=randal:hssl:research:brain:data_set_description">Yes</a>
+|
+
+
+|Recommended Software
+|<a href="http://www.ini.uzh.ch/~acardona/trakem2.html">TrakEM2</a>
+|
+
+
+|Connection Matrix
+|<a href="http://db.tt/wgc5cbbw">Yes</a>
+|
+
+
+|Functional data
+|Available <a href="mailto:joshuav@jhu.edu">upon request</a>
+|
+
+
+|Annotations
+|Not yet
+|
+
+
+|Disk space
+|12TB
+|
+
+
+|Reference
+|<a href="http://www.nature.com/nature/journal/v471/n7337/full/nature09802.html">Nature (2011)</a>, <a href="http://reid.med.harvard.edu/pdf/Bock-Lee-etal-Reid-2011-Nature.pdf">pdf</a>, <a href="http://reid.med.harvard.edu/pdf/Bock-Lee-etal-Reid-2011-NatureSupp.pdf">suppl.</a>
+|
+
+
+|Press
+|<a href="http://news.harvard.edu/gazette/story/2011/03/web-crawling-the-brain/">Article</a>, <a href="http://blogs.nature.com/news/2011/03/nature_video_untangling_the_br.html">video</a>
+|
+
+
+|Links
+|<a href="http://http://reid.med.harvard.edu/">Clay Reid lab</a>, <a href="http://www.hhmi.org/research/fellows/bock.html">Davi Bock's lab</a>
+|
+
+</tbody>

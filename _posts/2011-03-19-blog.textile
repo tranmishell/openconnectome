@@ -1,0 +1,9 @@
+---
+layout: post
+title: Blog
+permalink: http://openconnecto.me/blog/index.html
+post_id: 98
+categories: []
+
+---
+

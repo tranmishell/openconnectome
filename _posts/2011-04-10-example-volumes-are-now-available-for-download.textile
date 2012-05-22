@@ -1,0 +1,10 @@
+---
+layout: post
+title: example volumes are now available for download
+permalink: http://openconnecto.me/2011/04/10/example-volumes-are-now-available-for-download/index.html
+post_id: 254
+categories: 
+- connectome
+---
+
+visit our <a href="http://openconnectomeproject.org/data/brain/sample/">downloads</a> page to download some sample volumes that we've generated.  if you want a different volume, just <a title="Contact" href="http://openconnectomeproject.org/contact/">ask</a> ;)

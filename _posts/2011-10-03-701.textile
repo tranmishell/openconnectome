@@ -1,0 +1,65 @@
+---
+layout: post
+title: ""
+permalink: http://openconnecto.me/2011/10/03/701/index.html
+post_id: 701
+categories: 
+- Connectomes
+---
+
+1000 Functional Connectomes
+ 
+
+
+
+1000 Functional Connectomes Project, led by Michael Milham, M.D., Ph.D., is devoted “to initiating open, prospective data-sharing for the neuroimaging community.” Xi-Nian Zuo, Ph.D and the Neuro Bureau joined forces to release the processed data, as well as the code we used to process the data.
+
+ 
+
+ 
+
+ 
+Specifications
+
+
+
+Organism
+Human
+
+
+Brain region
+Whole brain
+
+
+Resolution
+~3x3x3 cubic mm
+
+
+Number of connectomes
+3022
+
+
+Web viewing
+Not yet
+
+
+Downloads
+Raw data
+
+
+Recommended Software
+FSL
+
+
+Connection Matrices
+Processed data
+
+
+Processing Scripts
+pre-processing, connectome inference
+
+
+Reference
+PNAS (2010)
+
+

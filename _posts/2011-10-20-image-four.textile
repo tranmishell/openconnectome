@@ -1,0 +1,10 @@
+---
+layout: post
+title: old Image four
+permalink: http://openconnecto.me/2011/10/20/image-four/index.html
+post_id: 763
+categories: 
+- connectome
+---
+
+<img class="aligncenter" title="C. elegans" src="http://upload.wikimedia.org/wikipedia/commons/b/be/CrawlingCelegans.gif" alt="" width="219" height="115" />

@@ -1,0 +1,13 @@
+---
+layout: post
+title: ""
+permalink: http://openconnecto.me/2011/09/18/576/index.html
+post_id: 576
+categories: 
+- Primary Navigation
+---
+
+Mission
+The primary motivating force behind the Open Connectome Project is to make state-of-the-art neuroscience open to anybody with computer access, regardless of knowledge, training, background, etc.  Open science means open to view, play, analyze, contribute, anything.
+
+We are interested in all levels of  “connectomes” , from the nano (using electron microscopy) to the macro (using magnetic resonance imaging). We (and others) conjecture that connectomes contain troves of information about who we are and how we tick. The size and multi-center nature of these data sets makes hosting services for these data beyond the scope of many individual labs. Therefore, the Open Connectome Project facilitates the analysis of connectome data by providing a unified front for connectomics research.
